@@ -13,7 +13,8 @@ I talk about my projects occasionally on [LinkedIn](https://www.linkedin.com/in/
 More casually, I also talk about coding and books on [Instagram](https://www.instagram.com/nadraqamaria/)
 
 ## Fun Facts
-1. I was born in Singapore and speak four languages
-2. I self-learnt to play the guitar at 15
-3. I love old cars and aspire to work in Porsche
-4. I play chess
+1. I self-learnt to play the guitar at 15
+2. I played floorball for 6 years
+3. I love old cars
+4. My favourite author is Dostoevsky
+5. I was born in Singapore and speak four languages
