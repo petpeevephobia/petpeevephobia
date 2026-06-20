@@ -4,13 +4,20 @@ I'm an AI Product Designer based in Germany.
 
 I love building things that make life easier for people, so we can focus on being creative.
 
-My main tech stack is Python, React, Golang, and HTML/CSS/JS. My tools include: Cursor, Figma, Obsidian, and Spotify (can't LARP without bangin' music)
+My main tech stack is **Python**, **React**, **Golang**, and **HTML/CSS/JS**. My tools include: **Cursor**, **Figma**, **Obsidian**, and **Spotify** (can't LARP without bangin' music).
 
-I've been a self-taught programmer since 2020, so trust me when I say I'm passionate about the things I build.
+I've been a self-taught programmer since 2020, so trust me when I say I'm _passionate_ about the things I build.
 
-I talk about my projects occasionally on [LinkedIn](https://www.linkedin.com/in/nadraqamaria/)
+Currently I'm building projects incorporating fullstack and automation. That's what I'm best at. Check out my favourite repos:
+- [Solvia Mini](https://github.com/petpeevephobia/solvia-mini): A free SEO audit tool for early founders
+- [PorscheLens](https://github.com/petpeevephobia/porsche-appreciation-predictor): A multimodal AI/ML system that predicts the value of a Porsche
+- [Qamar](https://github.com/petpeevephobia/qamar-bot): A Telegram bot that creates new Obsidian notes from voice messages
 
-More casually, I also talk about coding and books on [Instagram](https://www.instagram.com/nadraqamaria/)
+I talk about my projects occasionally on [LinkedIn](https://www.linkedin.com/in/nadraqamaria/).
+
+More casually, I also talk about my builder journey (and books I read) on [Instagram](https://www.instagram.com/nadraqamaria/).
+
+Got a project idea? Reach me at [qamaria.mdsah@gmail.com](mailto:qamaria.mdsah@gmail.com).
 
 ## Fun Facts
 1. I self-learnt to play the guitar at 15
