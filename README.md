@@ -15,6 +15,4 @@ More casually, I also talk about coding and books on [Instagram](https://www.ins
 ## Fun Facts
 1. I self-learnt to play the guitar at 15
 2. I played floorball for 6 years
-3. I love old cars
-4. My favourite author is Dostoevsky
-5. I was born in Singapore and speak four languages
+3. I was born in Singapore and speak four languages
