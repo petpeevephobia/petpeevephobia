@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nadra.
 
-I'm an AI Product Designer based in Germany.
+I'm an AI Engineer based in Germany.
 
 I love building things that make life easier for people, so we can focus on being creative.
 
