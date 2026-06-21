@@ -8,7 +8,7 @@ My main tech stack is **Python**, **React**, **Typescript**, **Golang**, **Postg
 
 I've been a self-taught programmer since 2020, so trust me when I say I am _passionate_ about the things I build.
 
-Currently I'm building projects incorporating fullstack and automation. That's what I'm best at. Check out my favourite buildd:
+Currently I'm building projects incorporating fullstack and automation. That's what I'm best at. Check out my favourite builds:
 - [Solvia Mini](https://github.com/petpeevephobia/solvia-mini): A free SEO audit tool for early founders
 - [PorscheLens](https://github.com/petpeevephobia/porsche-appreciation-predictor): A multimodal AI/ML system that predicts the value of a Porsche
 - [Qamar](https://github.com/petpeevephobia/qamar-bot): A Telegram bot that creates new Obsidian notes from voice messages
