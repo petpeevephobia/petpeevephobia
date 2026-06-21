@@ -4,11 +4,11 @@ I'm an AI Product Designer and Engineer based in Germany.
 
 I love building things that make life easier for people, so we can focus on being creative.
 
-My main tech stack is **Python**, **React**, **Golang**, and **HTML/CSS/JS**. My tools include: **Cursor**, **Figma**, **Obsidian**, and **Spotify** (can't LARP without bangin' music).
+My main tech stack is **Python**, **React**, **Typescript**, **Golang**, **PostgreSQL**, **HTML/CSS/JS**, and **PHP**. My tools include: **Cursor**, **Figma**, **Docker**, **Fly.io**, **Supabase**, **Obsidian**, and **Spotify** (can't LARP without bangin' music).
 
-I've been a self-taught programmer since 2020, so trust me when I say I'm _passionate_ about the things I build.
+I've been a self-taught programmer since 2020, so trust me when I say I am _passionate_ about the things I build.
 
-Currently I'm building projects incorporating fullstack and automation. That's what I'm best at. Check out my favourite repos:
+Currently I'm building projects incorporating fullstack and automation. That's what I'm best at. Check out my favourite buildd:
 - [Solvia Mini](https://github.com/petpeevephobia/solvia-mini): A free SEO audit tool for early founders
 - [PorscheLens](https://github.com/petpeevephobia/porsche-appreciation-predictor): A multimodal AI/ML system that predicts the value of a Porsche
 - [Qamar](https://github.com/petpeevephobia/qamar-bot): A Telegram bot that creates new Obsidian notes from voice messages
